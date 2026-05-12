@@ -21,6 +21,12 @@ The goal of this project is to create an assistant that can respond to user ques
 - NLP / LLM concepts
 - Transformer-based language model workflow
 
+## Project Files
+
+Additional project files, resources, or supporting materials are available here:
+
+(https://drive.google.com/drive/folders/1XgosPrqLJjoww4roxkN1FfE505iUv9nW?usp=drive_link)
+
 ## Author
 
 Rohan Bellamkonda Mahendra
